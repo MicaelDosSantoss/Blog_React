@@ -13,7 +13,7 @@ const App = () => {
   // http://localhost:3000
   return(
     <>
-    <Header />
+    <Header/>
 
     <Routes>
   
